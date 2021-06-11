@@ -33,6 +33,18 @@
         'https://github.com/regaby/odoo-custom.git',
         ## localización
         'https://github.com/ctmil/odoo-argentina.git',
+        #'https://github.com/ingadhoc/odoo-argentina-ee.git',
+        'https://github.com/ingadhoc/product.git ingadhoc-product',
+        'https://github.com/OCA/reporting-engine.git oca-reporting-engine',
+        'https://github.com/OCA/brand.git oca-brand',
+        'https://github.com/OCA/pos.git oca-pos',
+        'https://github.com/OCA/product-attribute.git oca-product-attribute',
+        ## itpp-labs
+        'https://github.com/itpp-labs/pos-addons.git',
+        ## contract
+        'https://github.com/ctmil/contract.git ctmil/contract',
+        'https://github.com/jcelguerablas/odoo.git jcelguerablas',
+        'https://github.com/CybroOdoo/CybroAddons.git',
     ],
 
     'docker-images': [
