@@ -43,6 +43,7 @@
         'https://github.com/itpp-labs/pos-addons.git',
         ## contract
         'https://github.com/ctmil/contract.git ctmil/contract',
+        'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
         'https://github.com/jcelguerablas/odoo.git jcelguerablas',
         'https://github.com/CybroOdoo/CybroAddons.git',
     ],
