@@ -1,5 +1,5 @@
 {
-    'name': 'l10n_moldeo',
+    'name': 'l10n_moldeo_15',
     'version': '15.0.0.0',
     'category': 'Tools',
     'summary': "Proyecto Localización Argentina de Moldeo",
