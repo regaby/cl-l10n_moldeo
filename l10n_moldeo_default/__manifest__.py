@@ -32,7 +32,7 @@
         'https://github.com/regaby/cl-l10n_moldeo.git',
         'https://github.com/regaby/odoo-custom.git -b 15.0-moldeo',
         'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
-        'https://github.com/ctmil/odoo-argentina.git',
+        'https://github.com/regaby/odoo-argentina.git',
         'https://github.com/OCA/reporting-engine.git',
         'https://github.com/OCA/stock-logistics-warehouse.git',
         'https://github.com/odoo/design-themes.git',
