@@ -1,6 +1,6 @@
 {
     'name': 'l10n_moldeo',
-    'version': '13.0.0.0',
+    'version': '15.0.0.0',
     'category': 'Tools',
     'summary': "Proyecto Localización Argentina de Moldeo",
     'author': 'Ing. Gabriela Rivero',
@@ -30,27 +30,16 @@
     # list of url repos to install in the form 'repo-url directory'
     'git-repos': [
         'https://github.com/regaby/cl-l10n_moldeo.git',
-        'https://github.com/regaby/odoo-custom.git',
-        ## localización
-        'https://github.com/ctmil/odoo-argentina.git',
-        #'https://github.com/ingadhoc/odoo-argentina-ee.git',
-        'https://github.com/ingadhoc/product.git ingadhoc-product',
-        'https://github.com/OCA/reporting-engine.git oca-reporting-engine',
-        'https://github.com/OCA/brand.git oca-brand',
-        'https://github.com/OCA/pos.git oca-pos',
-        'https://github.com/OCA/product-attribute.git oca-product-attribute',
-        ## itpp-labs
-        'https://github.com/itpp-labs/pos-addons.git',
-        ## contract
-        'https://github.com/ctmil/contract.git ctmil/contract',
+        'https://github.com/regaby/odoo-custom.git -b 15.0-moldeo',
         'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
-        'https://github.com/jcelguerablas/odoo.git jcelguerablas',
-        'https://github.com/CybroOdoo/CybroAddons.git',
+        'https://github.com/ctmil/odoo-argentina.git',
+        'https://github.com/OCA/reporting-engine.git',
+        'https://github.com/OCA/stock-logistics-warehouse.git',
+        'https://github.com/odoo/design-themes.git',
     ],
 
     'docker-images': [
-        'odoo regaby/odoo-ce:13.0',
+        'odoo regaby/odoo-ce:15.0',
         'postgres postgres:10.1-alpine',
-        'nginx nginx'
     ]
 }
