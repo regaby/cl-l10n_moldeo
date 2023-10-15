@@ -46,6 +46,7 @@
         'https://github.com/regaby/l10n_ar_fe_qr ctmil/l10n_ar_fe_qr',
         'https://github.com/jcelguerablas/odoo.git jcelguerablas',
         'https://github.com/CybroOdoo/CybroAddons.git',
+        'https://github.com/regaby/mercadopago.git',
     ],
 
     'docker-images': [
