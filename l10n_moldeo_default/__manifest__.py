@@ -39,6 +39,7 @@
         'https://github.com/OCA/brand.git oca-brand',
         'https://github.com/OCA/pos.git oca-pos',
         'https://github.com/OCA/product-attribute.git oca-product-attribute',
+        'https://github.com/OCA/web.git oca-web',
         ## itpp-labs
         'https://github.com/itpp-labs/pos-addons.git',
         ## contract
